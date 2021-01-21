@@ -4,7 +4,8 @@
 		"DogumTarihi": "4 Ocak 1963",
 		"DogumYeri": "Leipzig Doğu Almanya",
 		"CaldıgıEnsturmanlar": "Vokal,bateri,mizika",
-		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img1.jpg"
+		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img1.jpg",
+		"HakkındaURL":"https://tr.wikipedia.org/wiki/Till_Lindemann"
 	},
 	{
 		"AdiSoyadi": "Richard Kruspe",
@@ -12,7 +13,9 @@
 		"DogumTarihi": "24 Haziran 1967",
 		"DogumYeri": "Wittenberge,Alman Demokratik Cumhuriyeti",
 		"CaldıgıEnsturmanlar": "Elektro gitar,Vokal,Klavye",
-		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img2.jpg"
+		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img2.jpg",
+		"HakkındaURL":"https://tr.wikipedia.org/wiki/Richard_Kruspe"
+		
 	},
 	{
 		"AdiSoyadi": "Paul Landers",
@@ -20,7 +23,9 @@
 		"DogumTarihi": "9 Aralık 1964",
 		"DogumYeri": "Doğu Berlin,Alman Demokratik Cumhuriyeti",
 		"CaldıgıEnsturmanlar": "Gitar,vokal",
-		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img3.jpg"
+		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img3.jpg",
+		"HakkındaURL":"https://tr.wikipedia.org/wiki/Paul_Landers"
+		
 	},
 	{
 		"AdiSoyadi": "Oliver Riedel",
@@ -28,7 +33,8 @@
 		"DogumTarihi": "11 Nisan 1971",
 		"DogumYeri": "Schwerin,Alman Demokratik Cumhuriyetia",
 		"CaldıgıEnsturmanlar": "Bas Gitar,Vokal",
-		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img4.JPG"
+		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img4.JPG",
+		"HakkındaURL":"https://tr.wikipedia.org/wiki/Oliver_Riedel"
 	},
 	{
 		"AdiSoyadi": "Christoph Schneider",
@@ -36,7 +42,8 @@
 		"DogumTarihi": "11 Mayıs 1966",
 		"DogumYeri": "Doğu Berlin,Alman Demokratik Cumhuriyeti",
 		"CaldıgıEnsturmanlar": "Bateri",
-		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/mainimg5.jpg"
+		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img5.jpg",
+		"HakkındaURL":"https://tr.wikipedia.org/wiki/Christoph_Schneider"
 	},
 	{
 		"AdiSoyadi": "Christian Lorenz",
@@ -44,7 +51,8 @@
 		"DogumTarihi": "16 Kasım 1966",
 		"DogumYeri": "Doğu Berlin,Alman Demokratik Cumhuriyeti",
 		"CaldıgıEnsturmanlar": "Klavye,Vokal",
-		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/mainimg6.jpg"
+		"Resim": "https://raw.githubusercontent.com/berkegul/H5190042BerkeG-l/main/img6.jpg",
+		"HakkındaURL":"https://tr.wikipedia.org/wiki/Christian_Lorenz"
 	}
 
 
